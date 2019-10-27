@@ -1,0 +1,10 @@
+<?php
+function copyright(){
+    echo "This page is for single nerds to meet and date each other!<br>\n";
+    echo "Type in your personal information and wait for the nerdy luv (*ugh*) to begin!<br><br>";
+    echo "Written by Ulysses Carlos<br><br>";
+
+}
+
+
+?>

@@ -1,0 +1,8 @@
+<?php
+$file = fopen("Test.txt", 'w');
+echo "IS OPEN? : $file";
+if (!file){
+    echo "FUCKING GARBAGE PIECE OF SHIT I SWEAR TO GOD\n";
+}
+
+?>
